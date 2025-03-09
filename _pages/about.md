@@ -19,10 +19,15 @@ I grew up in Wallingford, Connecticut, graduating from Mark T. Sheehan High Scho
 **As a Climate Change Communicator, I focus on the broad strokes of climate change, Which can best be summed up in 7 Questions**:
 
 -What is Climate Change?
+
 -Why is it occurring? 
+
 -How do we know what we know?
+
 -Where will the impacts be felt?
+
 -When will impacts begin? Have they already?
+
 -Who is responsible?
 
 and of course...
