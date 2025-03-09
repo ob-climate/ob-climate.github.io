@@ -15,7 +15,7 @@ This website is to serve as my hub for teaching, research, and all things Climat
 
 Check Back Soon
 
-![CT climate Stripes](/images/CT.png){: .alighn-center width="300px" height="40px"}
+![CT climate Stripes](/images/CT.png){: .align-center width="3960px" height="40px"}
 
 About Me 
 ======
