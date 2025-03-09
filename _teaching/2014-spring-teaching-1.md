@@ -1,10 +1,9 @@
 ---
 title: "ENV 220: Global Climate Change"
-collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/ENV220
 venue: "Southern Connecticut State Univerisity, Department of the Environment, Geography and Marine Studies"
-date: S24, F24, S25
+date: Spring '24, Fall '24, Spring '25
 location: "New Haven, CT"
 ---
 Examination of the scientific, social, economic and political aspects of global climate change due to energy production using fossil-fuels.
@@ -25,8 +24,8 @@ LEP Tier 2 - Global Awareness (Southern Connecticut State University)
 This course fulfills the Tier 2, Global Awareness category of our general education requirements, the Liberal Education Program. The purpose of the Global Awareness category is to acquaint students with perspectives on current world affairs not centered in the American experience. To be effective citizens, students need to know and understand the conditions of others around the globe and the relationships and connections between self, local surroundings, and the broader world. 
 
 The main objectives of this category are: 
-1)	Area or Phenomenon outside the United States – Understanding a specific geographical region or phenomenon of international significance (e.g., the Middle East, sustainability, or globalization). 
-2)	Contemporary Implications – Gaining significant insight into contemporary world issues. 
-3)	Non-U.S. Perspectives – Exploring non-American points of view and ways of life. 
+1. Area or Phenomenon outside the United States – Understanding a specific geographical region or phenomenon of international significance (e.g., the Middle East, sustainability, or globalization). 
+2. Contemporary Implications – Gaining significant insight into contemporary world issues. 
+3. Non-U.S. Perspectives – Exploring non-American points of view and ways of life. 
 
 In addition to covering these objectives, this course will also reemphasize at least three Tier 1 competencies: Critical Thinking, Written Communication, and Information Literacy
