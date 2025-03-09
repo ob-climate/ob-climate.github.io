@@ -2,7 +2,7 @@
 title: "The Influence of Teleconnections on the Presence of North Atlantic Icebergs South of 48°: 1983-2020"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2022-12-10-Dissertation
 excerpt: 'The International Ice Patrol (IIP) has been responsible for the safety of maritime
 activity related to icebergs in the North Atlantic since their founding in the wake of the
 Titanic disaster in April 1912. In the century to follow, the Ice Patrol, their mission,
