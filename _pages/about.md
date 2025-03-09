@@ -13,6 +13,7 @@ This website is to serve as my hub for teaching, research, and all things Climat
 
 
 ======
+
 **Next Public Talk**
 
 "Climate Change Information" (45 Mins + Q&A), Miford Public Library
