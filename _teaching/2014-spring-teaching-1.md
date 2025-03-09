@@ -1,10 +1,10 @@
 ---
 Title: "ENV 220: Global Climate Change"
 Type: "Undergraduate Course"
-Linkink: /teaching/ENV220
+Link: /teaching/ENV220
 Venue: "Southern Connecticut State Univerisity, Department of the Environment, Geography and Marine Studies"
 Semesters: Spring '24, Fall '24, Spring '25
-location: "New Haven, CT"
+Location: "New Haven, CT"
 ---
 Examination of the scientific, social, economic and political aspects of global climate change due to energy production using fossil-fuels.
 
