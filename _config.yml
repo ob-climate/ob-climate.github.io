@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shayne R. O'Brien, Ph.D."
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Shayne O'Brien"
 description              : &description "personal description"
