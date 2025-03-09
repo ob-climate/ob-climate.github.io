@@ -12,14 +12,14 @@ My Name is Shayne O'Brien! I am a climatologist and educator from Wallingford, C
 This website is to serve as my hub for teaching, research, and all things Climate and Climate Change!
 
 **Next Public Talk**
-Milford Public Library, "Climate Change Information Sessions (45 Mins + Q&A)
+
+Milford Public Library, "Climate Change Information Session w/ Dr. Shayne O'Brien" (45 Mins + Q&A)
 *Date, Link Pending*
 
 ![CT climate Stripes](/images/ct2.png)
 These warming stripes show the annual temperature change in Connecticut from 1895-2023, red and blue stripes represent warmer and cooler temperatures respectively
-Find Your stripes at [Earthstripes.org](https://earthstripes.org)
+*Find Your stripes at [Earthstripes.org](https://earthstripes.org)*
 
-2024 was 2nd Warmest Year in CT History
 
 About Me 
 ======
