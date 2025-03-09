@@ -23,7 +23,6 @@ interactions. These analyses resulted in the finding that sea ice has a signific
 with I48N counts at 0- and 1-year lags. Additionally, this section indicates a significant
 correlation between sea ice and AO at a 1-year lag. Section five consists of comparing
 reanalysis(NCEP/NCAR Reanalysis, NCEP/DOE R2) data of meteorological and 
-xiii
 oceanographic factors in the 3 most-recent high and low iceberg years. This comparison
 identified areas of future study including geopotential height, sea level pressure and sea
 surface temperature.'
