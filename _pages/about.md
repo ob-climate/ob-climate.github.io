@@ -12,6 +12,7 @@ My Name is Shayne O'Brien! I am a climatologist and educator from Wallingford, C
 This website is to serve as my hub for teaching, research, and all things Climate and Climate Change!
 
 **Next Public Talk**
+
 Check Back Soon
 
 About Me 
