@@ -1,9 +1,9 @@
 ---
 title: "GEOG 433/514 - Issues in Environmental Protection"
+venue: "Central Connecticut State University, Department of Geography, Anthropology and Tourism"
 type: "Undergraduate/Graduate"
 permalink: /teaching/GEOG433
-venue: "Central Connecticut State University, Department of Geography, Anthropology and Tourism"
-date: 2024-09-22
+date: 2025-01-03
 location: "New Haven, CT"
 ---
 
