@@ -29,8 +29,7 @@ surface temperature.
 Adv. Rich W. Dixon, Ph.D., Cmte. Yanan Li, Ph.D.; Nathan Currit, Ph.D.; Todd Moore, Ph.D.'
 date: 2022-12-10
 venue: 'Texas State University'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: '/files/ShayneRO'BrienDissertation2022.pdf'
+citation: 'O'Brien, Shayne R. (2022). &quot;The Influence of Teleconnections on the Presence of North Atlantic Icebergs South of 48°N: 1983-2020.&quot;'<i>Texas State University</i>. 1(1).'
 ---
 
