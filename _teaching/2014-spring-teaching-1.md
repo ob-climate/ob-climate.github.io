@@ -1,20 +1,32 @@
 ---
-title: "Teaching experience 1"
+title: "ENV 220: Global Climate Change"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/ENV220
+venue: "Southern Connecticut State Univerisity, Department of the Environment, Geography and Marine Studies"
+date: S24, F24, S25
+location: "New Haven, CT"
 ---
+Examination of the scientific, social, economic and political aspects of global climate change due to energy production using fossil-fuels.
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Learning Objectives
 ======
+•	Explain Atmospheric Circulation, the Hydrologic Cycle, the Carbon Cycle, and Ocean Circulation.
+•	Recognize the scientific method and apply it practically.
+•	Distinguish between weather and climate.
+•	Identify the ways that climate data are collected, and how the data is applied.
+•	Identify the potential sources of bias present in environmental data.
+•	Discuss the economic, social, and ethical aspects of climate change and its impact.
+•	Interpret climate trends in climate data, and relate those to past, present, and future climates.
+•	Identify potential climate impacts on communities from local to global, and the steps being taken to prevent them.
 
-Heading 2
+LEP Tier 2 - Global Awareness (Southern Connecticut State University)
 ======
+This course fulfills the Tier 2, Global Awareness category of our general education requirements, the Liberal Education Program. The purpose of the Global Awareness category is to acquaint students with perspectives on current world affairs not centered in the American experience. To be effective citizens, students need to know and understand the conditions of others around the globe and the relationships and connections between self, local surroundings, and the broader world. 
 
-Heading 3
-======
+The main objectives of this category are: 
+1)	Area or Phenomenon outside the United States – Understanding a specific geographical region or phenomenon of international significance (e.g., the Middle East, sustainability, or globalization). 
+2)	Contemporary Implications – Gaining significant insight into contemporary world issues. 
+3)	Non-U.S. Perspectives – Exploring non-American points of view and ways of life. 
+
+In addition to covering these objectives, this course will also reemphasize at least three Tier 1 competencies: Critical Thinking, Written Communication, and Information Literacy
