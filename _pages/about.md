@@ -12,18 +12,15 @@ My Name is Shayne O'Brien! I am a climatologist and educator from Wallingford, C
 This website is to serve as my hub for teaching, research, and all things Climate and Climate Change!
 
 
+Upcoming Events
 ======
 
 **Next Public Talk**
 
 "Climate Change Information" (45 Mins + Q&A), Miford Public Library
 
-*Date, Link Pending*
+*Date TBA*
 
-![CT climate Stripes](/images/ct2.png)
-These warming stripes show the annual temperature change in Connecticut from 1895-2023, red and blue stripes represent warmer and cooler temperatures respectively.
-
-*Find Your stripes at [Earthstripes.org](https://earthstripes.org)*
 
 
 About Me 
@@ -51,6 +48,11 @@ I grew up in Wallingford, Connecticut, graduating from Mark T. Sheehan High Scho
 Through quality data and good science, we can answer these questions, and all the new ones that arise as a result!
 
 I will be covering each of these topics in my [Blog](https://ob-climate.github.io/year-archive/)!
+
+![CT climate Stripes](/images/ct2.png)
+These warming stripes show the annual temperature change in Connecticut from 1895-2023, red and blue stripes represent warmer and cooler temperatures respectively.
+
+*Find Your stripes at [Earthstripes.org](https://earthstripes.org)*
 
 Useful Links
 ======
