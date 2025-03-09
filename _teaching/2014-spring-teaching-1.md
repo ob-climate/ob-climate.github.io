@@ -11,14 +11,14 @@ Examination of the scientific, social, economic and political aspects of global 
 
 Learning Objectives
 ======
-•	Explain Atmospheric Circulation, the Hydrologic Cycle, the Carbon Cycle, and Ocean Circulation.
-•	Recognize the scientific method and apply it practically.
-•	Distinguish between weather and climate.
-•	Identify the ways that climate data are collected, and how the data is applied.
-•	Identify the potential sources of bias present in environmental data.
-•	Discuss the economic, social, and ethical aspects of climate change and its impact.
-•	Interpret climate trends in climate data, and relate those to past, present, and future climates.
-•	Identify potential climate impacts on communities from local to global, and the steps being taken to prevent them.
+- Explain Atmospheric Circulation, the Hydrologic Cycle, the Carbon Cycle, and Ocean Circulation.
+- Recognize the scientific method and apply it practically.
+- Distinguish between weather and climate.
+- Identify the ways that climate data are collected, and how the data is applied.
+- Identify the potential sources of bias present in environmental data.
+- Discuss the economic, social, and ethical aspects of climate change and its impact.
+- Interpret climate trends in climate data, and relate those to past, present, and future climates.
+- Identify potential climate impacts on communities from local to global, and the steps being taken to prevent them.
 
 LEP Tier 2 - Global Awareness (Southern Connecticut State University)
 ======
