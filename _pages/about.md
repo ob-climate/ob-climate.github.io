@@ -11,6 +11,9 @@ redirect_from:
 My Name is Shayne O'Brien! I am a climatologist and educator from Wallingford, Connecticut!
 This website is to serve as my hub for teaching, research, and all things Climate and Climate Change!
 
+**Next Public Talk**
+Check Back Soon
+
 About Me 
 ======
 I grew up in Wallingford, Connecticut, graduating from Mark T. Sheehan High School in 2011. I then completed my B.A in Geography/History at Southern Connecticut State University in '16, my M.S in Geosciences in at Fort Hays State University in '18, and my Ph.D. in Geography from Texas State University in '22. I currently [teach](https://ob-climate.github.io/teaching/) as an Adjunct Lecturer at Southern Connecticut State University, Central Connecticut State University, and the University of Tennessee at Chattanooga. My research interests involve the atmosphere-ice-land-ocean system, expecially in the North Atlantic. I am broadly interested in Climate Change, and Environmental Issues (And Solutions!). These topics make up the majority of my teaching portfolio. I live in Connecticut with my wife Elizabeth. 
