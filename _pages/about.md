@@ -16,7 +16,9 @@ Climate Hub
 **Next Public Talk**
 
 Milford Public Library,
+
 "Climate Change Information" (45 Mins + Q&A)
+
 *Date, Link Pending*
 
 ![CT climate Stripes](/images/ct2.png)
