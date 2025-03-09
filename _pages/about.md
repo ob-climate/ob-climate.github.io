@@ -11,13 +11,11 @@ redirect_from:
 My Name is Shayne O'Brien! I am a climatologist and educator from Wallingford, Connecticut!
 This website is to serve as my hub for teaching, research, and all things Climate and Climate Change!
 
-Climate Hub
+
 ======
 **Next Public Talk**
 
-Milford Public Library,
-
-"Climate Change Information" (45 Mins + Q&A)
+"Climate Change Information" (45 Mins + Q&A), Miford Public Library
 
 *Date, Link Pending*
 
