@@ -50,9 +50,7 @@ Through quality data and good science, we can answer these questions, and all th
 I will be covering each of these topics in my [Blog](https://ob-climate.github.io/year-archive/)!
 
 ![CT climate Stripes](/images/ct2.png)
-These warming stripes show the annual temperature change in Connecticut from 1895-2023, red and blue stripes represent warmer and cooler temperatures respectively.
-
-*Find Your stripes at [Earthstripes.org](https://earthstripes.org)*
+*These warming stripes show the annual temperature change in Connecticut from 1895-2023, red and blue stripes represent warmer and cooler temperatures respectively.Find Your stripes at [Earthstripes.org](https://earthstripes.org)*
 
 Useful Links
 ======
