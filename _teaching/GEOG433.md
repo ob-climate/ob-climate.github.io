@@ -1,0 +1,20 @@
+---
+title: "GEOG 433/514 - Issues in Environmental Protection"
+type: "Undergraduate/Graduate"
+permalink: /teaching/GEOG433
+venue: "Central Connecticut State University, Department of Geography, Anthropology and Tourism"
+date: 2024-09-22
+location: "New Haven, CT"
+---
+
+As a result of protracted and intensive exploitation, the natural balance of the environment in many places of the earth has been upset and serious consequences have begun to show. Some of these unintended consequences of our actions on the environment (global warming, ozone layer depletion, air and water pollution etc.,) threaten our very existence on planet earth. Concerns over deterioration of the environment have become pronounced. It has therefore become imperative to educate ourselves about the environment so we can reduce the adverse impacts of our actions on the environment. 
+
+Cross Listed as GEOG 433 & GEOG 514
+
+Course Structure
+======
+-16 weeks, 3 Credits
+
+Learning Objectives
+======
+Issues in the environmental protection planning process. Topics include air quality, noise, solid waste, hazardous materials, wilderness areas, endangered species, wetlands, and land use issues. A single field trip may be required.
