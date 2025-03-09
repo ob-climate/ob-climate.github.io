@@ -30,7 +30,7 @@ surface temperature.'
 date: 2022-12-10
 venue: 'Texas State University'
 slidesurl: '/files/slides2.pdf'
-paperurl: '/files/ShayneRO'BrienDissertation2022.pdf'
+paperurl: '/files/ShayneROBrienDissertation2022.pdf'
 citation: 'O'Brien, Shayne R. (2022). &quot;The Influence of Teleconnections on the Presence of North Atlantic Icebergs South of 48°: 1983-2020.&quot; <i>Texas State University/i>. 1(1).'
 ---
 
