@@ -25,7 +25,7 @@ correlation between sea ice and AO at a 1-year lag. Section five consists of com
 reanalysis(NCEP/NCAR Reanalysis, NCEP/DOE R2) data of meteorological and 
 oceanographic factors in the 3 most-recent high and low iceberg years. This comparison
 identified areas of future study including geopotential height, sea level pressure and sea
-surface temperature.''
+surface temperature.'
 date: 2015-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
