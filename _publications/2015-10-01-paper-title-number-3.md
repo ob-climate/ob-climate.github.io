@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "The Influence of Teleconnections on the Presence of North Atlantic Icebergs South of 48°: 1983-2020"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
