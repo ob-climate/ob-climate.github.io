@@ -7,7 +7,7 @@ excerpt: 'C.A.M. King, the noted British coastal geomorphologist, authored two b
 date: 2024-02-17
 venue: 'Progress in Physical Geography: Earth and Environment'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation:  Dixon, RW., **S.R. OBrien**, J.B.Hodge,. (2021). &quot;The Oceanography of Cuchlaine A.M. King&quot; <i>Progress in Physical Geography: Earth and Environment</i>. 1.'
+citation:  Dixon, RW., S.R. OBrien, J.B.Hodge,. (2021). &quot;The Oceanography of Cuchlaine A.M. King&quot; <i>Progress in Physical Geography: Earth and Environment</i>. 1.'
 ---
 
 
