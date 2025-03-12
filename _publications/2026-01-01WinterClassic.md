@@ -3,7 +3,7 @@ title: "Let's Take this Outside: A Climatological Analysis of Ice Surface Condit
 collection: publications
 category: inprogress
 permalink: /publication/WinterClassic
-IN PROGRESS: An Analysis of the Climate of NHL Winter Classic Host Cities. Includes analysis of the weather conditions in each event location on game day/time vs. a long term analysis of the climate each host city, Compares relevant weather data to ice repair delays, as well as solar declination at puck drop'  '
+except'IN PROGRESS: An Analysis of the Climate of NHL Winter Classic Host Cities. Includes analysis of the weather conditions in each event location on game day/time vs. a long term analysis of the climate each host city, Compares relevant weather data to ice repair delays, as well as solar declination at puck drop.'
 citation: 'OBrien,SR, RW Dixon, & JB Hodge (TBA). &quot;Let's Take this Outside: A Climatological Analysis of Ice Surface Conditions in the NHL's Winter Classic 2008-25.&quot; <i>Pending</i>..'
 ---
 
