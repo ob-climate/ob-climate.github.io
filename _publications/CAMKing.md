@@ -2,7 +2,7 @@
 title: "The Oceanography of Cuchlaine A.M. King"
 collection: publications
 category: manuscripts
-permalink: /publication/CuchlaineKing
+permalink: /publication/CAMKing
 excerpt: 'C.A.M. King, the noted British coastal geomorphologist, authored two books in a three-year period. Beaches and Coasts in 1959 was a major contribution to coastal geomorphology, whereas Oceanography for Geographers represents King’s attempt to show the importance of the oceans to all of geography. Their approaches and pedagogy differ, but their lessons remain relevant today.'
 date: 2021-04-17
 venue: 'GitHub Journal of Bugs'
