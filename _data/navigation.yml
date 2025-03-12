@@ -18,8 +18,8 @@ main:
   - title: "Blog"
     url: /year-archive/
 
-    title: "Personal"
-    url: /personal/
+    #title: "Personal"
+    #url: /personal/
     
   - title: "CV"
     url: /files/Shayne_O'Brien_CV_2025.pdf
