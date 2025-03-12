@@ -1,5 +1,5 @@
 ---
-title: "Let's Take this Outside: A Climatological Analysis of Ice Surface Conditions in the NHL's Winter Classic 2008-25"
+title: "Lets Take this Outside: A Climatological Analysis of Ice Surface Conditions in the NHL's Winter Classic 2008-25"
 collection: publications
 category: inprogress
 permalink: /publication/WinterClassic
