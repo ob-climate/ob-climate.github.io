@@ -11,11 +11,3 @@ What is Climate Change? Learn the Facts.
 
 **Under Construction**
 
-#Headings are cool
-#======
-
-#You can have many headings
-#======
-
-#Aren't headings cool?
-#------
