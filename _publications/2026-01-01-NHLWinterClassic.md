@@ -1,5 +1,5 @@
 ---
-title: "The Oceanography of Cuchlaine A.M. King"
+title: "Let's Take This Outside: A Climatological analysis of the NHL Winter Classic 08-25"
 collection: publications
 category: manuscripts
 permalink: /publication/CAMKing
