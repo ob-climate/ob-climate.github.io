@@ -7,7 +7,7 @@ excerpt: 'IN PROGRESS An Analysis of the Climate of NHL Winter Classic Host Citi
 date: 2026-01-01
 venue: 'Texas State University'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-citation: 'OBrien,SR, RW Dixon, & JB Hodge (TBA). &quot;Let's Take this Outside: A Climatological Analysis of Ice Surface Conditions in the NHL's Winter Classic 2008-25"&quot; <i>Pending</i>..'
+citation: 'OBrien,SR, RW Dixon, & JB Hodge (TBA). &quot;Lets Take this Outside: A Climatological Analysis of Ice Surface Conditions in the NHL's Winter Classic 2008-25"&quot; <i>Pending</i>..'
 ---
 
 
