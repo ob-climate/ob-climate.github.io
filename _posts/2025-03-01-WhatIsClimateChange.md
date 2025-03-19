@@ -33,7 +33,7 @@ Sometimes, a little too warm.
 
 How do we know this? In 1856, Connecticut Native Eunice Foote published the results of a very simple experiment in her paper "Circumstances Affecting the Heat of the Sun's Rays" published in the American Journal of Art and Science" in November of 1856. In her Experiment, Ms. Foote filled one vessel with "common air", and another with what was at the time called *Carbonic Acid Gas* or CO<sub>2</sub> as we know it today. I will allow Ms. Foote to describe her own results.
 
-*Note, Temperatures below are given in °F, but Are presented as Ms. Foote did in the original article
+*Note, Temperatures below are given in °F, but Are presented as Ms. Foote did in the original article*
 
 > "The highest effect of the sun's rays I have found to be in carbonic acid gas.
 > One of the recievers (vessels) was filled with it, the other with common air, and the result was as follows:
