@@ -42,3 +42,28 @@ I will be covering each of these topics in my [Blog](https://ob-climate.github.i
 
 Useful Links
 ======
+
+[Keeling Curve](https://keelingcurve.ucsd.edu/)
+
+[Global Carbon Budget](https://globalcarbonbudget.org/)
+
+[Windy](windy.com)
+
+[Daily Weather - Hartford](https://www.wunderground.com/history/daily/us/ct/hartford)
+
+[Daily Weather - New Haven](https://www.wunderground.com/history/daily/us/ct/new-haven)
+
+[Weather Extreme Records, CT](https://www.extremeweatherwatch.com/states/connecticut)
+
+[NWS Climate Prediction Center](https://www.cpc.ncep.noaa.gov/)
+
+[NWS Weather Prediction Center](https://www.wpc.ncep.noaa.gov/#page=ovw)
+
+[NWS Storm Prediction Center](https://www.spc.noaa.gov/)
+
+[NWS-New York City](https://www.weather.gov/okx/)
+
+
+
+
+
