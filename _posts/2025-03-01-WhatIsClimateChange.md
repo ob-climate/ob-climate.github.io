@@ -49,11 +49,11 @@ How do we know this? In 1856, Connecticut Native Eunice Foote published the resu
 
 
 <table>
-<tr><th>In Common Air </th><th>Table 1 Heading 2</th></tr>
+<tr><th>In Common Air </th><th>In Carbonic Acid Gas</th></tr>
 <tr><td>
 
 |In shade.| In sun. |
-|--|--|--|
+|--|--|
 |80| 90|
 |81| 94|
 |80| 99|
@@ -61,12 +61,12 @@ How do we know this? In 1856, Connecticut Native Eunice Foote published the resu
 
 </td><td>
 
-|In shade.| In sun. |
-|--|--|--|
+|In shade.| In sun.|
+|--|--|
 |80| 90|
-|81| 94|
-|80| 99|
-|81| 100||
+|84| 100|
+|84| 110|
+|85| 120|
 
 </td></tr> </table>
 
