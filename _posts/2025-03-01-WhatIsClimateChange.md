@@ -8,14 +8,15 @@ tags:
 ---
 
 What is Climate Change? In the year 2025, this is a far more complex question than it appears at face value. 
-If you've every walked outside and taken a breath of fresh air, you understand much of this already!
-This blog is a perfect place to start especially for new interested citizen scientists.
+If you've ever walked outside and taken a breath of fresh air,then you already understand much of what I'll discuss here!
+This blog is a perfect place to start especially for brand-
+new interested citizen scientists.
 
 This article covers the basics, and provides a series of causal relationships within our Earth Systems that 
 help to make understanding climate change as simple as looking out the window. I also address common misconceptions about climate change. 
 (With Citations of Course)
 
-The Basics
+The Facts
 ======
 
 Usually, when we discuss climate change in 2025, we are usually refering to *anthropogenic* climate change, meaning, climate changes due *primarily to human activity*.
@@ -67,7 +68,23 @@ And just like that, a discovery was made that carries far more relevance in 2025
 Carbon Dioxide gas (CO~2~) absorbs *more* heat than common air, and takes *much longer* to cool down. 
 
 Okay, so we've established that Carbon Dioxide is good at absorbing heat, (And that we've known it for nearly two centuries), lets take alook at some evidence of this in action from our nearest neighbors, 
-the terrestrial planets!
+the terrestrial planets! They will help us to explain our second fact.
+
+
+**Fact #2: Varying the amount of greenhouse gasses in an atmosphere, changes the atmosphere's ability to absorb heat**
+
+Greenhouse Gasses exist in the atmospheres of planets, and depending on the chemical composition, absorb heat at different rates. 
+On Earth, until very recently and with few exceptions, our greenhouse effect was in balance. Meaning the earth eventually lost all of the extra heat it absorbed. 
+Other planets are not so lucky. (Image of the greenhouse Effect)
+
+Take Earth's "Evil Twin" for instance. Venus is a very hot planet. Its even hotter than Mercury which is closer to the sun. Why? Because of its Atmosphere!
+Carbon Dioxide on Venus is like Nitrogen on Earth, it is the primary gas in Venus's atmosphere. 
+What is the result? What we call a *runaway greenhouse effect*. A runaway greenhouse effect occurs when every day, little by little, a planet holds on to just a little bit more heat than it did the day before, and releases a little less too. This means that a when planet's greenhouse effect is out of balance, and will continue to heat up, as long as the amount of available greenhouse gasses continues to increase.
+
+(Image comparing earth and venus makeup and temps)
+
+
+
 
 
 
