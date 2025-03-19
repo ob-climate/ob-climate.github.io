@@ -36,14 +36,33 @@ How do we know this? In 1856, Connecticut Native Eunice Foote published the resu
 > "The highest effect of the sun's rays I have found to be in carbonic acid gas.
 > One of the recievers (vessels) was filled with it, the other with common air, and the result was as follows:
 > 
-> In Common Air      In Acid Gas
------------ ----------
->row 1.1     row 1.2
->row 2.1     row 2.2
+>| In Common Air.      | In Carbonic Acid Gas. |
+>| ----------- | ----------- |
+>| Header      | Title       |
+>| Paragraph   | Text        |
+>| Header      | Title       |
+>| Paragraph   | Text        |
 >   
 >
 > -- <cite>Eunice Foote, 1856</cite>
 
+
+
+<table>
+<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><td>
+
+|Table 1| Middle | Table 2|
+|--|--|--|
+|a| not b|and c |
+
+</td><td>
+
+|b|1|2|3| 
+|--|--|--|--|
+|a|s|d|f|
+
+</td></tr> </table>
 
 
 
