@@ -1,14 +1,49 @@
 ---
 title: 'What is Climate Change?'
-date: 2025-03-01
+date: 2025-04-01
 permalink: /posts/What/
 tags:
   - climate change
   - ob-climate
 ---
 
-What is Climate Change? Learn the Facts.
-**Coming Soon**
+What is Climate Change? In the year 2025, this is a far more complex question that it appears at face value. 
+If you've every walked outside and taken a breath of fresh air, you understand much of this already!
+This blog is a perfect place to start especially for new interested citizen scientists.
 
-**Under Construction**
+This article covers the basics, and provides a series of causal relationships within our Earth Systems that 
+help to make understanding climate change as simple as looking out the window. I also address common misconceptions about climate change. 
+(With Citations of Course)
+
+The Basics
+======
+
+Usually, when we discuss climate change in 2025, we are usually refering to *anthropogenic* climate change, meaning, climate changes due *primarily to human activity*.
+That's not the only type of climate change, but it is the one we are currently dealing with. Over geologic time, our planet has been subject to **many** cycles of natural climatic changes. 
+What we are currently seeing as far as global tempterature rise, does not reflect the expected behavior of those natural changes. When we include human activity, the equation is balanced. 
+We'll come back to this a bit later on. First, however, we need to begin with the first fact in our arsenal. 
+
+**Fact #1: Carbon Dioxide absorbs more heat than Air**
+
+Molecules are a great place to begin to understand the most important relationship in climate study, that of Carbon Dioxide (CO~2~) and Air Temperature. Well of course, you won't find "Air" on the periodic Table,
+*Air* in this case refers to the specific mix of gasses that makes up the majority of our atmosphere (Namely, ~79% Nitrogen, 21% Oxygen, and some other trace elements) These trace elemesnts are what we are interested in. 
+
+Many of these elements, and molecules are called *greenhouse gasses*, or GHGs. Greehouse gasses are the gases in the atmosphere of a planet, that absorb heat energy and keep a planet warm. 
+Sometimes, a little too warm.
+
+How do we know this? In 1856, Connecticut Native Eunice Foote published the results of a very simple experiment in her paper "Circumstances Affecting the Heat of the Sun's Rays" published in the American Journal of Art and Science" in November of 1856. In her Experiment, Ms. Foote filled one vessel with "common air", and another with what was at the time called *Carbonic Acid Gas* or CO~2~ as we know it today. I will allow Ms. Foote to describe her own results 
+
+> "The highest effect of the sun's rays I have found to be in carbonic acid gas.
+> One of the recievers (vessels) was filled with it, the other with common air, and the result was as follows:
+> In Common Air      In Acid Gas
+----------- ----------
+>row 1.1     row 1.2
+>row 2.1     row 2.2
+>   
+>
+> -- <cite>Eunice Foote, 1856</cite>
+
+
+
+
 
