@@ -25,13 +25,14 @@ We'll come back to this a bit later on. First, however, we need to begin with th
 
 **Fact #1: Carbon Dioxide absorbs more heat than Air**
 
-Molecules are a great place to begin to understand the most important relationship in climate study, that of Carbon Dioxide (CO<sub>2</sub>. ) and Air Temperature. Well of course, you won't find "Air" on the periodic Table,
+Molecules are a great place to begin to understand the most important relationship in climate study, that of Carbon Dioxide (CO<sub>2</sub>.) and Air Temperature. Well of course, you won't find "Air" on the periodic Table,
 *Air* in this case refers to the specific mix of gasses that makes up the majority of our atmosphere (Namely, ~79% Nitrogen, 21% Oxygen, and some other trace elements) These trace elemesnts are what we are interested in. 
 
 Many of these elements, and molecules are called *greenhouse gasses*, or GHGs. Greehouse gasses are the gases in the atmosphere of a planet, that absorb heat energy and keep a planet warm. 
 Sometimes, a little too warm.
 
-How do we know this? In 1856, Connecticut Native Eunice Foote published the results of a very simple experiment in her paper "Circumstances Affecting the Heat of the Sun's Rays" published in the American Journal of Art and Science" in November of 1856. In her Experiment, Ms. Foote filled one vessel with "common air", and another with what was at the time called *Carbonic Acid Gas* or CO~2~ as we know it today. I will allow Ms. Foote to describe her own results 
+How do we know this? In 1856, Connecticut Native Eunice Foote published the results of a very simple experiment in her paper "Circumstances Affecting the Heat of the Sun's Rays" published in the American Journal of Art and Science" in November of 1856. In her Experiment, Ms. Foote filled one vessel with "common air", and another with what was at the time called *Carbonic Acid Gas* or CO<sub>2</sub> as we know it today. I will allow Ms. Foote to describe her own results.
+*Note, Temperatures below are given in (°)F, but Are presented as Ms. Foote did in the original article
 
 > "The highest effect of the sun's rays I have found to be in carbonic acid gas.
 > One of the recievers (vessels) was filled with it, the other with common air, and the result was as follows:
@@ -57,7 +58,7 @@ How do we know this? In 1856, Connecticut Native Eunice Foote published the resu
 
   </td></tr> </table>
 
-> The reciever containing the gas (CO~2~) became itself much heated---very sensibly more so than the other---and on being removed, it was many times as long in the cooling" 
+> The reciever containing the gas (CO<sub>2</sub>) became itself much heated---very sensibly more so than the other---and on being removed, it was many times as long in the cooling" 
 >
  -- <cite>Eunice Foote, 1856</cite>
 
