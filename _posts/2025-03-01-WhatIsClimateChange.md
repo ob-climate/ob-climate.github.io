@@ -25,7 +25,7 @@ We'll come back to this a bit later on. First, however, we need to begin with th
 
 **Fact #1: Carbon Dioxide absorbs more heat than Air**
 
-Molecules are a great place to begin to understand the most important relationship in climate study, that of Carbon Dioxide (CO~2~) and Air Temperature. Well of course, you won't find "Air" on the periodic Table,
+Molecules are a great place to begin to understand the most important relationship in climate study, that of Carbon Dioxide (chem(co2)) and Air Temperature. Well of course, you won't find "Air" on the periodic Table,
 *Air* in this case refers to the specific mix of gasses that makes up the majority of our atmosphere (Namely, ~79% Nitrogen, 21% Oxygen, and some other trace elements) These trace elemesnts are what we are interested in. 
 
 Many of these elements, and molecules are called *greenhouse gasses*, or GHGs. Greehouse gasses are the gases in the atmosphere of a planet, that absorb heat energy and keep a planet warm. 
