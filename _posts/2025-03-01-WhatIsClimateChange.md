@@ -57,9 +57,15 @@ How do we know this? In 1856, Connecticut Native Eunice Foote published the resu
 
   </td></tr> </table>
 
->   
+> The reciever containing the gas (CO~2~) became itself much heated---very sensibly more so than the other---and on being removed, it was many times as long in the cooling" 
 >
-> -- <cite>Eunice Foote, 1856</cite>
+ -- <cite>Eunice Foote, 1856</cite>
+
+And just like that, a discovery was made that carries far more relevance in 2025 than it did 4 years before Lincoln's Election. To Boil that discovery down to a single sentence?
+Carbon Dioxide gas (CO~2~) absorbs *more* heat than common air, and takes *much longer* to cool down. 
+
+Okay, so we've established that Carbon Dioxide is good at absorbing heat, (And that we've known it for nearly two centuries), lets take alook at some evidence of this in action from our nearest neighbors, 
+the terrestrial planets!
 
 
 
