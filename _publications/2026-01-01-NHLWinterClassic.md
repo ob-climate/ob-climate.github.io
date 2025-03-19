@@ -2,6 +2,7 @@
 title: "Let's Take This Outside: A Climatological analysis of the NHL Winter Classic 08-25"
 collection: publications
 category: inprogress
+venue: 'In Preparation'
 permalink: /publication/NHL
 excerpt: 'An Analysis of the atmsopheric and solar situation of the NHL Winter Classic Host Cities long term, and on Game Day. Examines impact of these factors on instances stoppages of play for playing surface repair'
 date: 2026-09-01
