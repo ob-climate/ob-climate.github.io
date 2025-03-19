@@ -49,18 +49,24 @@ How do we know this? In 1856, Connecticut Native Eunice Foote published the resu
 
 
 <table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><th>In Common Air </th><th>Table 1 Heading 2</th></tr>
 <tr><td>
 
-|Table 1| Middle | Table 2|
+|In shade.| In sun. |
 |--|--|--|
-|a| not b|and c |
+|80| 90|
+|81| 94|
+|80| 99|
+|81| 100|
 
 </td><td>
 
-|b|1|2|3| 
-|--|--|--|--|
-|a|s|d|f|
+|In shade.| In sun. |
+|--|--|--|
+|80| 90|
+|81| 94|
+|80| 99|
+|81| 100||
 
 </td></tr> </table>
 
