@@ -35,6 +35,7 @@ How do we know this? In 1856, Connecticut Native Eunice Foote published the resu
 
 > "The highest effect of the sun's rays I have found to be in carbonic acid gas.
 > One of the recievers (vessels) was filled with it, the other with common air, and the result was as follows:
+> 
 > In Common Air      In Acid Gas
 ----------- ----------
 >row 1.1     row 1.2
