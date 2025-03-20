@@ -64,6 +64,7 @@ How do we know this? In 1856, Connecticut Native Eunice Foote published the resu
 >
  -- <cite>Eunice Foote, 1856</cite>
 
+
 And just like that, a discovery was made that carries far more relevance in 2025 than it did 4 years before Lincoln's Election. To Boil that discovery down to a single sentence?
 Carbon Dioxide gas (CO<sub>2</sub>) absorbs *more* heat than common air, and takes *much longer* to cool down. 
 
