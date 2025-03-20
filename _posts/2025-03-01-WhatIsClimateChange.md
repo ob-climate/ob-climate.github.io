@@ -86,6 +86,9 @@ What is the result? What we call a *runaway greenhouse effect*. A runaway greenh
 
 (Image comparing earth and venus makeup and temps)
 
+**Fact #3: There is more CO<sub>2</sub> in the atmosphere now that there has been in 125,000 years**
+
+**Fact #4: CO<sub>2</sub> has incresed at a faster rate since the Industrial Revolution in 1850 than it has in all geologic time**
 
 
 
