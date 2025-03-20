@@ -30,7 +30,7 @@ Molecules are a great place to begin to understand the most important relationsh
 *Air* in this case refers to the specific mix of gasses that makes up the majority of our atmosphere (Namely, ~79% Nitrogen, 21% Oxygen, and some other trace elements) These trace elemesnts are what we are interested in. 
 
 Many of these elements, and molecules are called *greenhouse gasses*, or GHGs. Greehouse gasses are the gases in the atmosphere of a planet, that absorb heat energy and keep a planet warm. 
-Sometimes, a little too warm.
+Sometimes, a little too warm. The process by which a planet's atmosphere absorbs heat is called the **Greenhouse Effect!**
 
 How do we know this? In 1856, Connecticut Native Eunice Foote published the results of a very simple experiment in her paper "Circumstances Affecting the Heat of the Sun's Rays" published in the American Journal of Art and Science" in November of 1856. In her Experiment, Ms. Foote filled one vessel with "common air", and another with what was at the time called *Carbonic Acid Gas* or CO<sub>2</sub> as we know it today. I will allow Ms. Foote to describe her own results.
 
@@ -65,15 +65,16 @@ How do we know this? In 1856, Connecticut Native Eunice Foote published the resu
  -- <cite>Eunice Foote, 1856</cite>
 
 And just like that, a discovery was made that carries far more relevance in 2025 than it did 4 years before Lincoln's Election. To Boil that discovery down to a single sentence?
-Carbon Dioxide gas (CO~2~) absorbs *more* heat than common air, and takes *much longer* to cool down. 
+Carbon Dioxide gas (CO<sub>2</sub>) absorbs *more* heat than common air, and takes *much longer* to cool down. 
 
 Okay, so we've established that Carbon Dioxide is good at absorbing heat, (And that we've known it for nearly two centuries), lets take alook at some evidence of this in action from our nearest neighbors, 
 the terrestrial planets! They will help us to explain our second fact.
 
 
-**Fact #2: Varying the amount of greenhouse gasses in an atmosphere, changes the atmosphere's ability to absorb heat**
+**Fact #2: An atmosphere with more CO<sub>2</sub> will absorb more than one with less CO<sub>2</sub>**
 
 Greenhouse Gasses exist in the atmospheres of planets, and depending on the chemical composition, absorb heat at different rates. 
+Carbon Dioxide (CO<sub>2</sub>), Methane (CH<sub>4</sub>), Nitrous Oxide (N<sub>2</sub>O), and Water Vapor (H<sub>2</sub>O), are, in that order, the most impactful greenhouse gasses we have in our atmosphere.
 On Earth, until very recently and with few exceptions, our greenhouse effect was in balance. Meaning the earth eventually lost all of the extra heat it absorbed. 
 Other planets are not so lucky. (Image of the greenhouse Effect)
 
