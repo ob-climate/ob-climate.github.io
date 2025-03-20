@@ -61,8 +61,7 @@ How do we know this? In 1856, Connecticut Native Eunice Foote published the resu
   </td></tr> </table>
 
 > The reciever containing the gas (CO<sub>2</sub>) became itself much heated---very sensibly more so than the other---and on being removed, it was many times as long in the cooling" 
->
- -- <cite>Eunice Foote, 1856</cite>
+>-- <cite>Eunice Foote, 1856</cite>
 
 
 And just like that, a discovery was made that carries far more relevance in 2025 than it did 4 years before Lincoln's Election. To Boil that discovery down to a single sentence?
