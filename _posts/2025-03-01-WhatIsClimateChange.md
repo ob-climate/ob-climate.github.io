@@ -73,7 +73,7 @@ Okay, so we've established that Carbon Dioxide is good at absorbing heat, (And t
 the terrestrial planets! They will help us to explain our second fact.
 
 
-**Fact #2: An atmosphere with more CO<sub>2</sub> will absorb more than one with less CO<sub>2</sub>**
+**Fact #2: An atmosphere with more CO<sub>2</sub> will absorb more heat, than one with less CO<sub>2</sub>**
 
 Greenhouse Gasses exist in the atmospheres of planets, and depending on the chemical composition, absorb heat at different rates. 
 Carbon Dioxide (CO<sub>2</sub>), Methane (CH<sub>4</sub>), Nitrous Oxide (N<sub>2</sub>O), and Water Vapor (H<sub>2</sub>O), are, in that order, the most impactful greenhouse gasses we have in our atmosphere.
@@ -86,9 +86,31 @@ What is the result? What we call a *runaway greenhouse effect*. A runaway greenh
 
 (Image comparing earth and venus makeup and temps)
 
-**Fact #3: There is more CO<sub>2</sub> in the atmosphere now that there has been in 125,000 years**
+**Fact #3: There is more CO<sub>2</sub> in the atmosphere right now than there has been for nearly 3-3.3 Million years**
+
+At the time of writing, the CO<sub>2</sub> concentration in the Earth's atmosphere is 427.23 parts-per-million (ppm). That means that if you split the atmosphere into 1 Million parts, 427.23 of those parts would be CO<sub>2</sub> (It's like a percent with a few more zeroes!). It doesn't sound like a lot on the surface, but as always, context is very important here. The last time the CO<sub>2</sub> concentrations were as high as they are today, it was the Pliocene epoch. 
+For reference, thats when the Himalayas and the ithsmus of Panama were formed, the latter part of the Pliocene saw the rise of modern humans. 
+What does this mean for the climate? 
+
+*It means here is more CO<sub>2</sub> in the atmosphere **right now** than there has been since Homo sapiens evoloved**, What's more, the last time the atmosphere even crossed 300 ppm was 800,000 years ago! 
+
+Lets look at some more digestible time scales to help put this into context, say perhaps, a (young!) human life. I was born 32 years ago, the CO<sub>2</sub> concentration in the atmosphere was 357.13 parts-per-million. it has increased by 64.42 ppm in my short lifetime (the 32 years prior to 1993 saw an increase in 39.40ppm, for context). Normally, a 64ppm swing takes 100,000 years, not 32. If you would like to look at your own numbers, the Nature Conservancy has [an awesome tool](https://www.nature.org/en-us/get-involved/how-to-help/carbon-footprint-calculator/carbon-by-birth-year/) to examine your birth year a little more closely. 
+
+Since March of 1958, The Scripps Institution of Oceanography and UC San Diego have monitored atmospheric CO<sub>2</sub> data from the Mauna Loa Observatory. Named for its creator, [Dave Keeling](https://keelingcurve.ucsd.edu/2013/04/03/the-history-of-the-keeling-curve/), the [keeling curve](https://keelingcurve.ucsd.edu/) shows the result of this decades-long progress. Each and every year, CO<sub>2</sub>
+concentrations in the atmosphere accumulate over the northern hemisphere winter, as the Northern Forests lie dormant. As spring arrives and life returns, The mighty Taiga forests of Canada and Russia take up as much of this CO<sub>2</sub> as they can. But as they return to dormancy in the autumn, we find that they didn't take up enough. The cycle then repeats, albeit with a different starting point.
+
 
 **Fact #4: CO<sub>2</sub> has incresed at a faster rate since the Industrial Revolution in 1850 than it has in all geologic time**
+
+All[1^] of the energy used on the Earth comes from the Sun. It's just a matter of *when* that energy was recieved. 
+
+Right now, as you read this, your brain is burning energy in the form of calories. Presumably, those calories were gained from food. Humans get our energy from consuming generally plants (that grow using solar energy), and/or animals (Which also need to eat!). So in a manner of speaking, we are eating sunlight-by-proxy! For millions of years, living organisms on Earth were limited to the amount of solar energy they could get in a day. However, for one brief period of Earth's life, the planet learned to save some solar energy for later. 359-299 Million Years ago, called **Carbon**iferous period. During the Carboniferous, life on Earth was flourishing. While the Tree-like lycopods thrived, the microbes that could break them down would not evolve for some 60 million more years. So these plants died, and decomposed very slowly, in a very swampy evironment. There was nothing to tke up the energy that the plants absorbed in their life, so that energy remained stored for 300 Million years in what today are coal deposits. a bit later, in the Mesozoic, marine algaes and phytoplanktons absorbed their solar energy, died, and stored that spare energy in what would eventually become oil and natural gas deposits. These are our fossil fuels. Energy from the sun, absorbed by organisms, and stored deep in the earth for millions of years, not unlike a battery.
+
+All of this is to say, that **the industrial revolution gave humanity access to more energy per day than the sun could provide**. The great limitation of life on earth, available energy, was finally broken. This technological leap for humankind did not come without cost. 
+As we burn fossil fuels to power our society, we finally release the energy those ancient plants stored millions of years ago. For the first time since before time, the *Earth's energy Budget was out of balance.*
+These fossil fuels emit CO<sub>2</sub> as a byproduct of burning. CO<sub>2</sub> is, of course, naturally occurring in the atmosphere, you make it with each breath, volcanoes belch it, wildfires release it. We know this, and account for it. We know how much CO<sub>2</sub> is emitted every year through natural means. It is simply not enough to cause the climatic changes we have seen in the last two centuries. We also know how much CO<sub>2</sub> human activity emits every year, and it turns out **it *is* enough to explain these climatic changes** 
+
+[1^] Geothermal energy notwithstanding
 
 
 
