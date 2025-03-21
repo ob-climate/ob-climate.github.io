@@ -68,11 +68,12 @@ The reciever containing the gas (CO<sub>2</sub>) became itself much heated---ver
 And just like that, a discovery was made that carries far more relevance in 2025 than it did 4 years before Lincoln's Election. To Boil that discovery down to a single sentence?
 Carbon Dioxide gas (CO<sub>2</sub>) absorbs *more* heat than common air, and takes *much longer* to cool down. 
 
-Okay, so we've established that Carbon Dioxide is good at absorbing heat, (And that we've known it for nearly two centuries), lets take alook at some evidence of this in action from our nearest neighbors, 
-the terrestrial planets! They will help us to explain our second fact.
+Okay, so we've established that Carbon Dioxide is good at absorbing heat, (And that we've known it for nearly two centuries), lets take alook at some evidence of this in action from our nearest neighbors, the terrestrial planets! They will help us to explain our second fact.
 
 
-Fact #2: An atmosphere with more CO<sub>2</sub> will absorb more heat, than one with less CO<sub>2</sub>
+
+
+Fact #2: An atmosphere with more CO<sub>2</sub> will absorb more heat than one with less CO<sub>2</sub>
 ------
 
 Greenhouse Gasses exist in the atmospheres of planets, and depending on the chemical composition, absorb heat at different rates. 
@@ -82,6 +83,17 @@ Other planets are not so lucky. (Image of the greenhouse Effect)
 
 Take Earth's "Evil Twin" for instance. Venus is a very hot planet. Its even hotter than Mercury which is closer to the sun. Why? Because of its Atmosphere!
 Carbon Dioxide on Venus is like Nitrogen on Earth, it is the primary gas in Venus's atmosphere. 
+
+  |Earth| Venus|
+  |--|--|
+  |78% Nitrogen (N<sub>2</sub>)| 96% Carbon Dioxide (C<sub>O</sub>2)|
+  |21% Oxygen (O<sub>2</sub>| 3% 78% Nitrogen (N<sub>2</sub>)| 
+  |~Argon (Ar)| 1% other gasses|
+  |<1% Other Gasses||
+  
+  H<sub>2</sub>O
+
+  
 What is the result? What we call a *runaway greenhouse effect*. A runaway greenhouse effect occurs when every day, little by little, a planet holds on to just a little bit more heat than it did the day before, and releases a little less too. This means that a when planet's greenhouse effect is out of balance, and will continue to heat up, as long as the amount of available greenhouse gasses continues to increase.
 
 (Image comparing earth and venus makeup and temps)
