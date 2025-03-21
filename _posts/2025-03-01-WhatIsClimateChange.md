@@ -24,7 +24,7 @@ That's not the only type of climate change, but it is the type we are currently 
 What we are currently seeing as far as global tempterature rise does not resemble those past climatic changes. The reasons why *this* climate change looks different from *those* can be complicated. However, four simple, interconnected facts about the natural world, is all you really need to get started in connecting the many dots of our climate system!
 
 
-<img src="/images/Statistica-NOAAGlobalTemperature.jpeg" width="600" height="600" alt="https://www.statista.com/chart/28722/global-surface-temperature-anomalies/" class="center"/>
+<img src="/images/Statistica-NOAAGlobalTemperature.jpeg" width="600" height="600" alt="https://www.statista.com/chart/28722/global-surface-temperature-anomalies/" align="center"/>
  
 
 Fact #1: Carbon Dioxide absorbs more heat than Air
