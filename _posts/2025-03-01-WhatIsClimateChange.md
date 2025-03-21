@@ -86,7 +86,7 @@ Carbon Dioxide on Venus is like Nitrogen on Earth, it is the primary gas in Venu
 
   |Earth| Venus|
   |--|--|
-  |78% Nitrogen (N<sub>2</sub>)| 96% Carbon Dioxide (C<sub>O</sub>2)|
+  |78% Nitrogen (N<sub>2</sub>)| 96% Carbon Dioxide (CO<sub>2</sub>)|
   |21% Oxygen (O<sub>2</sub>| 3% 78% Nitrogen (N<sub>2</sub>)| 
   |~Argon (Ar)| 1% other gasses|
   |<1% Other Gasses||
