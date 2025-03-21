@@ -21,13 +21,16 @@ The Facts
 
 Usually, when we discuss climate change in 2025, we are usually refering to *anthropogenic* climate change, meaning, climate changes due *primarily to human activity*.
 That's not the only type of climate change, but it is the type we are currently dealing with. Over geologic time, our planet has been subject to **many** cycles of **natural** climatic changes. 
-What we are currently seeing as far as global tempterature rise does not resemble those past climatic changes. The reasons why *this* climate change looks different from *those* can be complicated. However, four simple, interconnected facts about the natural world, is all you really need to get started in connecting the many dots of our climate system!
-
+What we are currently seeing as far as global tempterature rise does not resemble those past climatic changes. The reasons why *this* climate change looks different from *those* can be complicated[^1]. However, four simple, interconnected facts about the natural world, is all you really need to get started in connecting the many dots of our climate system!
 
 
 <p align="center">
   <img src="/images/Statistica-NOAAGlobalTemperature.jpeg" width="600" height="600" alt="https://www.statista.com/chart/28722/global-surface-temperature-anomalies/" align="center">
 </p>
+
+*Global Average temperatures since the industrial revolution have been steadly climbing. ["2024 was the warmest year on record."](https://www.statista.com/chart/28722/global-surface-temperature-anomalies/)*
+
+
  
 
 Fact #1: Carbon Dioxide absorbs more heat than Air
@@ -82,7 +85,7 @@ Fact #2: An atmosphere with more CO<sub>2</sub> will absorb more heat than one w
 ------
 
 Greenhouse Gasses exist in the atmospheres of many planets, and depending on the chemical composition, they will absorb heat at different rates. 
-Carbon Dioxide (CO<sub>2</sub>), Methane (CH<sub>4</sub>), Nitrous Oxide (N<sub>2</sub>O), and Water Vapor (H<sub>2</sub>O)[^1] , are, in that order the most impactful greenhouse gasses we have in our atmosphere. (H<sub>2</sub>O holds the most heat overall, but it precipitates out of the atmosphere as rain!)
+Carbon Dioxide (CO<sub>2</sub>), Methane (CH<sub>4</sub>), Nitrous Oxide (N<sub>2</sub>O), and Water Vapor (H<sub>2</sub>O)[^2] , are, in that order the most impactful greenhouse gasses we have in our atmosphere. (H<sub>2</sub>O holds the most heat overall, but it precipitates out of the atmosphere as rain!)
 On Earth, until very recently and with few exceptions, our greenhouse effect was in balance. Meaning the earth eventually lost all of the extra heat it absorbed. 
 Other planets are not so lucky. (Image of the greenhouse Effect)
 
@@ -103,8 +106,6 @@ What is the result? What we call a *runaway greenhouse effect*. A runaway greenh
 
 (Image comparing earth and venus makeup and temps)
 
-[^1]: Water Vapor (Water in its invisible gaseous form) is a strong greenhouse gas, but it does not stay in the atmosphere long, as it regularly precipitates out as rain!
-
 Fact #3: There is more CO<sub>2</sub> in the atmosphere right now than there has been for nearly 3-3.3 Million years
 ------
 
@@ -123,7 +124,7 @@ concentrations in the atmosphere accumulate over the northern hemisphere winter,
 Fact #4: CO<sub>2</sub> concentrations in the Earth's Atmosphere has increased at a faster rate since the Industrial Revolution in 1850 than it has in all geoloic history.
 ------
 
-All[^2] of the energy used on the Earth comes from the Sun. It's just a matter of *when* that energy was recieved. 
+All[^3] of the energy used on the Earth comes from the Sun. It's just a matter of *when* that energy was recieved. 
 
 Right now, as you read this, your brain is burning energy in the form of calories. Presumably, those calories were gained from food. Humans get our energy from consuming generally plants (that grow using solar energy), and/or animals (Which also need to eat!). So in a manner of speaking, we are eating sunlight-by-proxy! For millions of years, living organisms on Earth were limited to the amount of solar energy they could get in a day. However, for one brief period of Earth's life, the planet learned to save some solar energy for later. 359-299 Million Years ago, called **Carbon**iferous period. During the Carboniferous, life on Earth was flourishing. While the Tree-like lycopods thrived, the microbes that could break them down would not evolve for some 60 million more years. So these plants died, and decomposed very slowly, in a very swampy evironment. There was nothing to tke up the energy that the plants absorbed in their life, so that energy remained stored for 300 Million years in what today are coal deposits. a bit later, in the Mesozoic, marine algaes and phytoplanktons absorbed their solar energy, died, and stored that spare energy in what would eventually become oil and natural gas deposits. These are our fossil fuels. Energy from the sun, absorbed by organisms, and stored deep in the earth for millions of years, not unlike a battery.
 
@@ -131,7 +132,9 @@ All of this is to say, that **the industrial revolution gave humanity access to 
 As we burn fossil fuels to power our society, we finally release the energy those ancient plants stored millions of years ago. For the first time since time, the *Earth's energy Budget was out of balance.*
 These fossil fuels emit CO<sub>2</sub> as a byproduct of burning. CO<sub>2</sub> is, of course, naturally occurring in the atmosphere, you make it with each breath, volcanoes belch it, wildfires release it. We know this, and account for it. We know how much CO<sub>2</sub> is emitted every year through natural means. It is simply not enough to cause the climatic changes we have seen in the last two centuries. We also know how much CO<sub>2</sub> human activity emits every year, and it turns out **it *is* enough to explain these climatic changes** 
 
-[^2]: Geothermal energy notwithstanding
+[^1]
+[^2]: Water Vapor (Water in its invisible gaseous form) is a strong greenhouse gas, but it does not stay in the atmosphere long, as it regularly precipitates out as rain!
+[^3]: Geothermal energy notwithstanding
 
 
 
