@@ -20,11 +20,10 @@ The Facts
 
 Usually, when we discuss climate change in 2025, we are usually refering to *anthropogenic* climate change, meaning, climate changes due *primarily to human activity*.
 That's not the only type of climate change, but it is the one we are currently dealing with. Over geologic time, our planet has been subject to **many** cycles of **natural** climatic changes. 
-What we are currently seeing as far as global tempterature rise, does not reflect the expected behavior of those natural changes. The reasons why *this* climate change looks different from *those* can be complicated. However, with four simple, interconnected facts, and the evidence they are based on, is all you really need to get started!
+What we are currently seeing as far as global tempterature rise, does not reflect the expected behavior of those natural changes. The reasons why *this* climate change looks different from *those* can be complicated. However, with four simple, interconnected facts about the natural world, is all you really need to get started in connecting the many dots of our climate system!
 
-#Fact #1: Carbon Dioxide absorbs more heat than Air
-
-
+Fact #1: Carbon Dioxide absorbs more heat than Air
+-----
 
 Molecules are a great place to begin to understand the most important relationship in climate study, that of Carbon Dioxide (CO<sub>2</sub>.) and Air Temperature. Well of course, you won't find "Air" on the periodic Table,
 *Air* in this case refers to the specific mix of gasses that makes up the majority of our atmosphere (Namely, ~79% Nitrogen, 21% Oxygen, and some other trace elements) These trace elemesnts are what we are interested in. 
@@ -73,7 +72,8 @@ Okay, so we've established that Carbon Dioxide is good at absorbing heat, (And t
 the terrestrial planets! They will help us to explain our second fact.
 
 
-**Fact #2: An atmosphere with more CO<sub>2</sub> will absorb more heat, than one with less CO<sub>2</sub>**
+Fact #2: An atmosphere with more CO<sub>2</sub> will absorb more heat, than one with less CO<sub>2</sub>
+------
 
 Greenhouse Gasses exist in the atmospheres of planets, and depending on the chemical composition, absorb heat at different rates. 
 Carbon Dioxide (CO<sub>2</sub>), Methane (CH<sub>4</sub>), Nitrous Oxide (N<sub>2</sub>O), and Water Vapor (H<sub>2</sub>O), are, in that order, the most impactful greenhouse gasses we have in our atmosphere.
@@ -86,7 +86,8 @@ What is the result? What we call a *runaway greenhouse effect*. A runaway greenh
 
 (Image comparing earth and venus makeup and temps)
 
-**Fact #3: There is more CO<sub>2</sub> in the atmosphere right now than there has been for nearly 3-3.3 Million years**
+Fact #3: There is more CO<sub>2</sub> in the atmosphere right now than there has been for nearly 3-3.3 Million years
+------
 
 At the time of writing, the CO<sub>2</sub> concentration in the Earth's atmosphere is 427.23 parts-per-million (ppm). That means that if you split the atmosphere into 1 Million parts, 427.23 of those parts would be CO<sub>2</sub> (It's like a percent with a few more zeroes!). It doesn't sound like a lot on the surface, but as always, context is very important here. The last time the CO<sub>2</sub> concentrations were as high as they are today, it was the Pliocene epoch. 
 For reference, thats when the Himalayas and the ithsmus of Panama were formed, the latter part of the Pliocene saw the rise of modern humans. 
@@ -100,7 +101,8 @@ Since March of 1958, The Scripps Institution of Oceanography and UC San Diego ha
 concentrations in the atmosphere accumulate over the northern hemisphere winter, as the Northern Forests lie dormant. As spring arrives and life returns, The mighty Taiga forests of Canada and Russia take up as much of this CO<sub>2</sub> as they can. But as they return to dormancy in the autumn, we find that they didn't take up enough. The cycle then repeats, albeit with a different starting point.
 
 
-**Fact #4: CO<sub>2</sub> has incresed at a faster rate since the Industrial Revolution in 1850 than it has in all geologic time**
+Fact #4: CO<sub>2</sub> has incresed at a faster rate since the Industrial Revolution in 1850 than it has in all geologic time
+------
 
 All[1^] of the energy used on the Earth comes from the Sun. It's just a matter of *when* that energy was recieved. 
 
