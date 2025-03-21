@@ -94,7 +94,7 @@ What is the result? What we call a *runaway greenhouse effect*. A runaway greenh
 
 (Image comparing earth and venus makeup and temps)
 
-[^1] Water Vapor (Water in its invisible gaseous form) is a strong greenhouse gas, but it does not stay in the atmosphere long, as it regularly precipitates out as rain!
+[^1]: Water Vapor (Water in its invisible gaseous form) is a strong greenhouse gas, but it does not stay in the atmosphere long, as it regularly precipitates out as rain!
 
 Fact #3: There is more CO<sub>2</sub> in the atmosphere right now than there has been for nearly 3-3.3 Million years
 ------
@@ -122,7 +122,7 @@ All of this is to say, that **the industrial revolution gave humanity access to 
 As we burn fossil fuels to power our society, we finally release the energy those ancient plants stored millions of years ago. For the first time since time, the *Earth's energy Budget was out of balance.*
 These fossil fuels emit CO<sub>2</sub> as a byproduct of burning. CO<sub>2</sub> is, of course, naturally occurring in the atmosphere, you make it with each breath, volcanoes belch it, wildfires release it. We know this, and account for it. We know how much CO<sub>2</sub> is emitted every year through natural means. It is simply not enough to cause the climatic changes we have seen in the last two centuries. We also know how much CO<sub>2</sub> human activity emits every year, and it turns out **it *is* enough to explain these climatic changes** 
 
-[^2] Geothermal energy notwithstanding
+[^2]: Geothermal energy notwithstanding
 
 
 
