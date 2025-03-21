@@ -10,7 +10,7 @@ tags:
 What is Climate Change? 
 
 In the year 2025, this is a far more complex question than it appears at face value. 
-If you've ever walked outside and taken a breath of fresh air, then you already understand much of what I'll discuss here!
+If you've ever been outside and taken a breath of fresh air, then you already understand much of what I'll discuss here!
 This blog is a perfect place to start for all levels of expertise.
 
 This article covers the basics, and provides a series of causal relationships within our Earth Systems that 
@@ -21,14 +21,14 @@ The Facts
 
 Usually, when we discuss climate change in 2025, we are usually refering to *anthropogenic* climate change, meaning, climate changes due *primarily to human activity*.
 That's not the only type of climate change, but it is the type we are currently dealing with. Over geologic time, our planet has been subject to **many** cycles of **natural** climatic changes. 
-What we are currently seeing as far as global tempterature rise, does not resemble those past climatic changes. The reasons why *this* climate change looks different from *those* can be complicated. However, four simple, interconnected facts about the natural world, is all you really need to get started in connecting the many dots of our climate system!
+What we are currently seeing as far as global tempterature rise does not resemble those past climatic changes. The reasons why *this* climate change looks different from *those* can be complicated. However, four simple, interconnected facts about the natural world, is all you really need to get started in connecting the many dots of our climate system!
  
 
 Fact #1: Carbon Dioxide absorbs more heat than Air
 -----
 
 Molecules are a great place to begin to understand the most important relationship in climate study, that of Carbon Dioxide (CO<sub>2</sub>.) and Air Temperature. Well of course, you won't find "Air" on the periodic Table,
-*Air* in this case refers to the specific mix of gasses that makes up the majority of our atmosphere (Namely, ~78% Nitrogen, ~21% Oxygen, 1% Argon, and some other trace elements) These trace elements are what we are interested in.
+*Air* in this case refers to the specific mix of gasses that makes up the majority of our atmosphere.
 
 Many of these elements, and molecules are called *greenhouse gasses*, or GHGs. Greehouse gasses are the gases in the atmosphere of a planet, that absorb heat energy and keep a planet warm. 
 Sometimes, a little too warm. The process by which a planet's atmosphere absorbs heat is called the **Greenhouse Effect!**(We'll circle back to this)
