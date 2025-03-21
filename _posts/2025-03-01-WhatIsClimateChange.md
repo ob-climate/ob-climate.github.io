@@ -27,14 +27,14 @@ What we are currently seeing as far as global tempterature rise does not resembl
 Fact #1: Carbon Dioxide absorbs more heat than Air
 -----
 
-Molecules are a great place to begin to understand the most important relationship in climate study, that of Carbon Dioxide (CO<sub>2</sub>.) and Air Temperature. Well of course, you won't find "Air" on the periodic Table,
-*Air* in this case refers to the specific mix of gasses that makes up the majority of our atmosphere. That is mostly Nitrogen and Oxygen, but there are many other trace elements as well.
+Molecules are a great place to begin to understand the most important relationship in climate study, that of Carbon Dioxide (CO<sub>2</sub>.) and Air Temperature. Well of course, you won't find "Air" on the periodic Table, 
+*Air* in this case refers to the specific mix of gasses that makes up the majority of our atmosphere. Air mostly Nitrogen and Oxygen, but there are many other trace elements as well.
 
 Many of these elements, and molecules are called *greenhouse gasses*, or GHGs. Greenhouse gasses are the gases in the atmosphere of a planet, that absorb heat energy and keep a planet warm. 
 Sometimes, a little too warm. The process by which a planet's atmosphere absorbs heat is called the **Greenhouse Effect!**
 The greenhouse gas of most concern to us is Carbon Dioxide (CO<sub>2</sub>). We know a lot about the relationship between CO<sub>2</sub> and air temperature now. But that understanding needed to start *somewhere*, and so do we!
 
-In November 1856, Connecticut Native Eunice Foote published the results of a very simple experiment in her paper "Circumstances Affecting the Heat of the Sun's Rays" published in the *American Journal of Art and Science*. In her Experiment, Ms. Foote filled one vessel with "common air", and another with what was at the time called *Carbonic Acid Gas* or CO<sub>2</sub> as we know it today. I will allow Ms. Foote to describe her own results.
+In November 1856, Connecticut Native Eunice Foote published the results of a very simple experiment in her paper ["Circumstances Affecting the Heat of the Sun's Rays"](https://www.geographyrealm.com/wp-content/uploads/2019/11/1856-foote_sunsrays_247-248.pdf) published in the *American Journal of Art and Science*. In her Experiment, Ms. Foote filled one vessel with "common air", and another with what was at the time called *Carbonic Acid Gas* or CO<sub>2</sub> as we know it today. I will allow Ms. Foote to describe her own results.
 *Note: Temperatures in the Table below are given in °F, but are presented exactly as Ms. Foote did in the original article*
 
 <blockquote>
