@@ -7,7 +7,9 @@ tags:
   - ob-climate
 ---
 
-What is Climate Change? In the year 2025, this is a far more complex question than it appears at face value. 
+What is Climate Change? 
+
+In the year 2025, this is a far more complex question than it appears at face value. 
 If you've ever walked outside and taken a breath of fresh air, then you already understand much of what I'll discuss here!
 This blog is a perfect place to start for all levels of expertise.
 
