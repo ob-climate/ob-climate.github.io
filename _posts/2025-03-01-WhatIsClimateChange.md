@@ -28,7 +28,7 @@ What we are currently seeing as far as global tempterature rise does not resembl
   <img src="/images/Statistica-NOAAGlobalTemperature.jpeg" width="600" height="600" alt="https://www.statista.com/chart/28722/global-surface-temperature-anomalies/" align="center">
 </p>
 
-*Global Average temperatures since the industrial revolution have been steadly climbing. ["2024 was the warmest year on record."](https://www.statista.com/chart/28722/global-surface-temperature-anomalies/)*
+*Global Average temperatures since the industrial revolution have been steadly climbing. [2024 was the warmest year on record.](https://www.statista.com/chart/28722/global-surface-temperature-anomalies/)*
 
 
  
