@@ -8,9 +8,8 @@ tags:
 ---
 
 What is Climate Change? In the year 2025, this is a far more complex question than it appears at face value. 
-If you've ever walked outside and taken a breath of fresh air,then you already understand much of what I'll discuss here!
-This blog is a perfect place to start especially for brand-
-new interested citizen scientists.
+If you've ever walked outside and taken a breath of fresh air, then you already understand much of what I'll discuss here!
+This blog is a perfect place to start especially for all levels of expertise.
 
 This article covers the basics, and provides a series of causal relationships within our Earth Systems that 
 help to make understanding climate change as simple as looking out the window. I also address common misconceptions about climate change. 
@@ -20,11 +19,12 @@ The Facts
 ======
 
 Usually, when we discuss climate change in 2025, we are usually refering to *anthropogenic* climate change, meaning, climate changes due *primarily to human activity*.
-That's not the only type of climate change, but it is the one we are currently dealing with. Over geologic time, our planet has been subject to **many** cycles of natural climatic changes. 
-What we are currently seeing as far as global tempterature rise, does not reflect the expected behavior of those natural changes. When we include human activity, the equation is balanced. 
-We'll come back to this a bit later on. First, however, we need to begin with the first fact in our arsenal. 
+That's not the only type of climate change, but it is the one we are currently dealing with. Over geologic time, our planet has been subject to **many** cycles of **natural** climatic changes. 
+What we are currently seeing as far as global tempterature rise, does not reflect the expected behavior of those natural changes. The reasons why *this* climate change looks different from *those* can be complicated. However, with four simple, interconnected facts, and the evidence they are based on, is all you really need to get started!
 
-**Fact #1: Carbon Dioxide absorbs more heat than Air**
+#Fact #1: Carbon Dioxide absorbs more heat than Air
+
+
 
 Molecules are a great place to begin to understand the most important relationship in climate study, that of Carbon Dioxide (CO<sub>2</sub>.) and Air Temperature. Well of course, you won't find "Air" on the periodic Table,
 *Air* in this case refers to the specific mix of gasses that makes up the majority of our atmosphere (Namely, ~79% Nitrogen, 21% Oxygen, and some other trace elements) These trace elemesnts are what we are interested in. 
