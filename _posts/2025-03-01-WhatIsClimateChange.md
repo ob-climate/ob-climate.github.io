@@ -21,7 +21,7 @@ The Facts
 
 Usually, when we discuss climate change in 2025, we are usually refering to *anthropogenic* climate change, meaning, climate changes due *primarily to human activity*.
 That's not the only type of climate change, but it is the type we are currently dealing with. Over geologic time, our planet has been subject to **many** cycles of **natural** climatic changes. 
-What we are currently seeing as far as global tempterature rise does not resemble those past climatic changes. The reasons why *this* climate change looks different from *those* can be complicated[^1]. However, four simple, interconnected facts about the natural world, is all you really need to get started in connecting the many dots of our climate system!
+The rise in global tempterature we're currently experiencing doesn't resemble those past climatic changes. The reasons why *this* climate change looks different from *those* can be complicated[^1]. However, four simple, interconnected facts about the natural world, is all you really need to get started in connecting the many dots of our climate system!
 
 
 <p align="center">
