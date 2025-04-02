@@ -16,14 +16,14 @@ Upcoming Events
 
 **The Science of Climate Change**
 
-June 10th, 6:30pm
+June 10th, 6:30p-8p
 Milford Public Library
 
 Milford, CT
 
 **Living in a Changing Climate**
 
-June 24th, 6:30pm
+June 24th, 6:30p-8p
 Milford Public Library
 
 Milford, CT
