@@ -13,12 +13,12 @@ This website is to serve as my hub for teaching, research, and all things Climat
 
 Upcoming Events
 ==
+
 **The Science of Climate Change**
 
 June 10th, 6:30pm
 
 Milford Public Library
-
 Milford, CT
 
 **Living in a Changing Climate**
@@ -26,7 +26,6 @@ Milford, CT
 June 24th, 6:30pm
 
 Milford Public Library
-
 Milford, CT
 
 About Me 
