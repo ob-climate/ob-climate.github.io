@@ -21,6 +21,8 @@ June 10th, 6:30pm
 Milford Public Library
 Milford, CT
 
+
+
 **Living in a Changing Climate**
 
 June 24th, 6:30pm
