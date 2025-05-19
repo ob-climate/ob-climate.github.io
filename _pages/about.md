@@ -14,7 +14,7 @@ This website is to serve as my hub for teaching, research, and all things Climat
 Upcoming Events
 ==
 
-[**Living in a Changing Climate**](https://milford-pl.libcal.com/event/14516109))
+[**Living in a Changing Climate**](https://milford-pl.libcal.com/event/14516109)
 
 June 10th, 6:30p-8p
 Milford Public Library
