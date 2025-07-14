@@ -15,8 +15,8 @@ main:
   #- title: "Talks"
    # url: /talks/        
         
-  - title: "Blog"
-    url: "https://madclimate.substack.com/"
+  #- title: "Blog"
+   # url: "https://madclimate.substack.com/"
 
     #title: "Personal"
     #url: /personal/
