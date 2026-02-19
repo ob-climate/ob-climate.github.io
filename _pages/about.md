@@ -13,7 +13,9 @@ This website is to serve as my hub for teaching, research, and all things Climat
 
 **Next Public Talk**
 Staying Cool In a Changing Climate
+
 Wallingford Public Library
+
 TBD , July
 
 About Me 
