@@ -13,11 +13,13 @@ This website is to serve as my hub for teaching, research, and all things Climat
 
 **Next Public Talk**
 
-Staying Cool In a Changing Climate
+Staying Cool In a Warming Climate: What's Changing, and How to Adapt
 
 Wallingford Public Library
 
-TBD , July
+17th June, 2026
+
+Register: https://www.wallingfordlibrary.org/index.php/event/staying-cool-warming-climate-whats-changing-and-how-adapt-79215
 
 About Me 
 ======
