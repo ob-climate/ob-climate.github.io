@@ -40,6 +40,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Shayne-Obrien-2?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6InB1YmxpY2F0aW9uIn19"
   scopus           : # URL
+  substack         : "https://madclimate.substack.com"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
